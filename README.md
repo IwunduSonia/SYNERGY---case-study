@@ -1,7 +1,9 @@
-ABOUT THIS SYNERGY CASE STUDY
+
+# SYNERGY
 
 This is a hypothetical energy company located in Nigeria. It supplies three products - AGO, PMS, ATK to its customers around different regions in the country. 
 
+This repository was written using MYSQL.
 
 ELEMENTS OF THIS CASE STUDY 
 
